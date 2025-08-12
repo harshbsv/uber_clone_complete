@@ -1,0 +1,2 @@
+final supabaseUrl = 'https://njwhorywhfkmjybsbxxn.supabase.co';
+final supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5qd2hvcnl3aGZrbWp5YnNieHhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTUwMTYwNzAsImV4cCI6MjA3MDU5MjA3MH0.xw21PdknqROvD8XegkD9DcwRRQWLe3ZWLoXBZ93Sd2o';
