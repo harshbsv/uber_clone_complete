@@ -1,0 +1,1 @@
+A Ride-hailing app clone based on Uber. This project currently contains only the Customer-facing app, with basic UI. Driver side app WIP. Currently, the Driver movement tracking in real time is emulated through the supporting Dart project in this repo.
